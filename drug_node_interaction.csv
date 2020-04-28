@@ -1,0 +1,8 @@
+drug,node,interaction
+Interferon gamma-n1,TNF,-
+Interferon gamma-1b,TNF,-
+Interferon gamma-1a,TNF,-
+Ruxolitinib,MEK1/2,-
+Dasatinib,MEK1/2,-
+Dinaciclib,FOXO3,+
+Vemurafenib,BRAF,-
