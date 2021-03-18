@@ -7,7 +7,8 @@ Jupyter Notebooks:
 
 1. Inhibition of Apoptosis.ipynb -> Curating an interaction network downloaded from Cytoscape
 2. Drug identification.ipynb -> Collecting drugs used to treat different kinds of cancer
-3. 
+3. Drug Efficacy.ipynb -> Evaluating the relevancy of different drugs to induce cell growth/death and shorlist the most relevent ones for simulation
+4. 
 
 
 # Reaction pathways enrichment
