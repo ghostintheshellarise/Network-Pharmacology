@@ -5,7 +5,7 @@ I am using several public databases to extract information about cancer treateme
 
 Jupyter Notebooks:
 
-1. Inhibition of Apoptosis.ipynb = Curation of a interaction network downloaded from Cytoscape
+1. Inhibition of Apoptosis.ipynb -> Curation of a interaction network downloaded from Cytoscape
 2. 
 
 
