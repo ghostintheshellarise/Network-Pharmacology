@@ -5,8 +5,9 @@ I am using several public databases to extract information about cancer treateme
 
 Jupyter Notebooks:
 
-1. Inhibition of Apoptosis.ipynb -> Curation of a interaction network downloaded from Cytoscape
-2. 
+1. Inhibition of Apoptosis.ipynb -> Curating an interaction network downloaded from Cytoscape
+2. Drug identification.ipynb -> Collecting drugs used to treat different kinds of cancer
+3. 
 
 
 # Reaction pathways enrichment
