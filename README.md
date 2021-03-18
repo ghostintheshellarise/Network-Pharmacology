@@ -2,7 +2,7 @@
 # Part A: Drug efficacy
 Using graph network to evaluate drug efficacy.
 
-I am using several public databases to extract information about cancer treatement.  A network "Inhibition of Apoptosis" is extracted from Cytoscape.  This forms the base network to evaluate the efficacy of cancer drugs identified from KEGG.  The interaction between the drugs and the network nodes are reviewed using relevant extracts provided by PubMed. The ineraction rules are then incorporated into the network as additional nodes to evaluate the trajectory of the network when these interactions are activated in that network
+I am using several public databases to extract information about cancer treatement.  A network "Inhibition of Apoptosis" is extracted from Cytoscape.  This forms the base network to evaluate the efficacy of cancer drugs identified from KEGG.  The interaction between the drugs and the network nodes are reviewed using relevant extracts provided by PubMed. The ineraction rules are then incorporated into the network as additional nodes to evaluate the trajectory of the network when these interactions are activated in that network.
 
 Jupyter Notebooks:
 1. Inhibition of Apoptosis.ipynb -> Curating an interaction network downloaded from Cytoscape
@@ -19,4 +19,4 @@ I am extracting list of articles from public database PubMed about different enz
 Jupyter Notebooks:
 
 5. Network.ipynb -> Demonstrating how to convert text collected from PubMed to a graph-like structure for node2vec training
-6. 
+6. Node2Vec.ipynb -> Demonstrationg how to learn node embeddings based on the graph-converted sentences curated from PubMed and/or other sources.
