@@ -18,4 +18,5 @@ I am extracting list of articles from public database PubMed about different enz
 
 Jupyter Notebooks:
 
-1. 
+1. Network.ipynb -> Demonstrating how to convert text collected from PubMed to a graph-like structure for node2vec training
+2. 
