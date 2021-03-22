@@ -18,5 +18,6 @@ I am extracting list of articles from public database PubMed about different enz
 
 Jupyter Notebooks:
 
-5. Network.ipynb -> Demonstrating how to convert text collected from PubMed to a graph-like structure for node2vec training
-6. Node2Vec.ipynb -> Demonstrationg how to learn node embeddings based on the graph-converted sentences curated from PubMed and/or other sources.
+5. Network.ipynb -> Demonstrating how to convert text collected from PubMed to a graph-like structure
+6. Random Walk.ipynb -> Demonstrating how to generate a collection of random walks from the graph-like structure of a sentence
+7. Node2Vec.ipyn ->
