@@ -20,4 +20,4 @@ Jupyter Notebooks:
 
 5. Network.ipynb -> Demonstrating how to convert text collected from PubMed to a graph-like structure
 6. Random Walk.ipynb -> Demonstrating how to generate a collection of random walks from the graph-like structure of a sentence
-7. Node2Vec.ipyn -> Demonstrating training using Gensim's word2vec model to capture the graph-nature of a sentence and generate static node embedding
+7. Node2Vec.ipynb -> Demonstrating training using Gensim's word2vec model to capture the graph-nature of a sentence and generate static node embedding
